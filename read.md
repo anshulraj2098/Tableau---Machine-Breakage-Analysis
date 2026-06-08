@@ -13,4 +13,4 @@ The reason the client wanted to collect telemetry was to answer 2 questions:
 2. What are the machines that broke most often in that location?
 
 
-![T2]https://github.com/anshulraj2098/Tableau---Machine-Breakage-Analysis/issues/1#issue-4610563769
+![image alt](https://github.com/anshulraj2098/Tableau---Machine-Breakage-Analysis/blob/main/Screenshot_uploaded.png?raw=true)
