@@ -1,4 +1,4 @@
-# Here is the background information on your task
+# Here is the background information
 Using a data unification algorithm, the tech team at our client, Daikibo, has converted all telemetry data collected from its 4 factories:
 
 - Daikibo Factory Meiyo (Tokyo, Japan)
