@@ -11,3 +11,6 @@ Each location has 9 types of machines, sending a message every 10 mins. Daikibo 
 The reason the client wanted to collect telemetry was to answer 2 questions:
 1. In which location did machines break the most?
 2. What are the machines that broke most often in that location?
+
+
+![T2]https://github.com/anshulraj2098/Tableau---Machine-Breakage-Analysis/issues/1#issue-4610563769
